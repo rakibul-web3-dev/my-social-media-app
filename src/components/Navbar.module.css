@@ -1,0 +1,42 @@
+.navbar {
+  background: #efeeee;
+  display: flex;
+  align-items: center;
+  /* justify-content: space-between; */
+  gap: 8%;
+  box-shadow: 5px 0px 10px rgb(29, 28, 28);
+}
+.navbarLeft {
+  display: flex;
+  align-items: center;
+  margin: 15px;
+  gap: 25px;
+}
+.navbarLeft h2 {
+  color: rgb(46, 81, 170);
+}
+.navbarLeft input {
+  padding: 5px 20px;
+  border: 1.5px solid #706d6d;
+  background-color: rgb(235, 232, 232);
+  border-radius: 20px;
+  color: black;
+  font-size: 18px;
+  outline: none;
+}
+.navbarMiddle {
+  /* background: red; */
+  display: flex;
+  width: 35%;
+  align-items: center;
+  justify-content: space-between;
+  gap: 50px;
+  font-size: 28px;
+  cursor: pointer;
+}
+.navbarRight {
+  display: flex;
+  align-items: center;
+  gap: 60%;
+  font-size: 22px;
+}

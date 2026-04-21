@@ -1,12 +1,6 @@
 function Post() {
   return (
-    <div
-      style={{
-        border: "1px solid #ccc",
-        marginTop: "10px",
-        padding: "10px",
-      }}
-    >
+    <div>
       <h4>User Name</h4>
       <p>This is a post content</p>
 

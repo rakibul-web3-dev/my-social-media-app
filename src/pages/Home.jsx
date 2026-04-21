@@ -9,7 +9,7 @@ function Home() {
     <div>
       <Navbar />
 
-      <div style={{ display: "flex" }}>
+      <div>
         <Sidebar />
         <Feed />
         <Rightbar />

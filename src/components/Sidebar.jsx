@@ -1,6 +1,6 @@
 function Sidebar() {
   return (
-    <div style={{ width: "20%", padding: "10px" }}>
+    <div>
       <p>Profile</p>
       <p>Friends</p>
       <p>Groups</p>
