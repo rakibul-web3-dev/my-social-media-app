@@ -1,0 +1,27 @@
+.homeContainer {
+  display: flex;
+  width: 100%;
+  margin-top: 60px; /* navbar height adjust */
+}
+
+/* Left Sidebar */
+.sidebar {
+  flex: 2;
+  position: sticky;
+  top: 60px;
+  height: calc(100vh - 60px);
+}
+
+/* Middle Feed */
+.feedContainer {
+  flex: 6;
+  padding: 20px;
+}
+
+/* Right Sidebar */
+.rightbar {
+  flex: 3;
+  position: sticky;
+  top: 60px;
+  height: calc(100vh - 60px);
+}

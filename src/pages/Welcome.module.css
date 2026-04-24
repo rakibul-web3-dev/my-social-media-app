@@ -54,3 +54,24 @@
   border-radius: 5px;
   width: 75%;
 }
+.inputPass {
+  padding: 5px 15px;
+  font-size: 18px;
+  border: none;
+  /* border: 1px solid #515050; */
+  outline: none;
+  border-radius: 5px;
+  width: 75%;
+}
+.passwordBox {
+  width: 75%;
+  border: 1px solid #515050;
+  border-radius: 5px;
+  display: flex;
+  justify-content: space-between;
+}
+.passwordBox .toggleBtn {
+  border: none;
+  margin-right: 10px;
+  font-size: 18px;
+}
