@@ -1,0 +1,7 @@
+.rightBar {
+  background: rebeccapurple;
+  flex: 2.5;
+  position: sticky;
+  top: 60px;
+  height: calc(100vh - 60px);
+}

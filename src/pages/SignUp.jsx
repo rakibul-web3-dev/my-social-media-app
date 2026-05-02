@@ -84,7 +84,7 @@ function SignUp() {
           <button
             type="submit"
             className={styles.submitBtn}
-            onClick={handleSignUp}
+            // onClick={handleSignUp}
           >
             Sign Up
           </button>

@@ -1,6 +1,7 @@
+import styles from "./Sidebar.module.css";
 function Sidebar() {
   return (
-    <div>
+    <div className={styles.sidebar}>
       <p>Profile</p>
       <p>Friends</p>
       <p>Groups</p>

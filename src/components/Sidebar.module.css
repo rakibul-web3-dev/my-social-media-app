@@ -1,0 +1,6 @@
+.sidebar {
+  flex: 2;
+  position: sticky;
+  top: 60px;
+  background: blue;
+}
