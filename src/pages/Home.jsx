@@ -13,11 +13,7 @@ function Home() {
 
       <div className={styles.homeContainer}>
         <Sidebar />
-
-        <div>
-          <Feed />
-        </div>
-
+        <Feed />
         <Rightbar />
       </div>
     </div>

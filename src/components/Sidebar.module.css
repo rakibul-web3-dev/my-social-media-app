@@ -3,4 +3,5 @@
   position: sticky;
   top: 60px;
   background: blue;
+  overflow-y: auto;
 }

@@ -1,4 +1,7 @@
 .feedContainer {
-  flex: 7;
-  background: aqua;
+  flex: 5;
+  background: #ffffff;
+  display: flex;
+  flex-direction: column;
+  /* padding: 30px; */
 }

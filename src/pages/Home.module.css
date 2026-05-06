@@ -1,26 +1,6 @@
 .homeContainer {
   display: flex;
-  width: 100%;
-  /* margin-top: 60px; */
-}
-
-/* Left Sidebar */
-/* .sidebar {
-  flex: 2;
-  position: sticky;
-  top: 60px;
-} */
-
-/* Middle Feed */
-/* .feedContainer {
-  flex: 5;
-  padding: 20px;
-} */
-
-/* Right Sidebar */
-/* .rightbar {
-  flex: 3;
-  position: sticky;
-  top: 60px;
   height: calc(100vh - 60px);
-} */
+  width: 100%;
+  overflow: hidden;
+}

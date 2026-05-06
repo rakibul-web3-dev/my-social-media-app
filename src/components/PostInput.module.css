@@ -1,0 +1,25 @@
+.postInput {
+  padding: 50px 30px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  max-height: 60px;
+  width: 100%;
+  background: #f0eded;
+}
+.inputField {
+  width: 80%;
+  border: 2px solid #a4a2a2;
+  border-radius: 15px 0px 0px 15px;
+  outline: none;
+  padding: 5px;
+  font-size: 18px;
+  color: #000000;
+}
+.postBtn {
+  padding: 6px 10px;
+  border: none;
+  background: #2e51aa;
+  font-size: 18px;
+  border-radius: 0px 15px 15px 0px;
+}
